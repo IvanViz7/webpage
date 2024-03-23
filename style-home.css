@@ -1,0 +1,51 @@
+.tituloPrincipal{
+padding-left: 10px;
+}
+h2{
+    text-align: center;
+}
+
+#imagenBarberia{
+    width: 100%;
+}
+
+.principal{
+    background: #cccccc;
+    padding: 20px;
+}
+
+.diferenciales{
+    background: white;
+}
+
+h3{
+    text-align: center;
+    padding: 20px;
+}
+
+p{
+    text-align: center;
+}
+
+em strong{
+    color: red
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenBarbero{
+    width: 50%;
+}
